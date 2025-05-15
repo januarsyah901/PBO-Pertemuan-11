@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pertemuan11:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pertemuan11_jar</output-path>
+    <root id="archive" name="Pertemuan 11.jar">
+      <element id="module-output" name="Pertemuan 11" />
+    </root>
+  </artifact>
+</component>
